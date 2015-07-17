@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="logo_principal.svg"
-   inkscape:export-filename="/home/gilson/Developer/Projects/hackultura/logo/images/logo1_24px.png"
-   inkscape:export-xdpi="5.0770817"
-   inkscape:export-ydpi="5.0770817">
+   inkscape:export-filename="/home/gilson/Developer/Projects/hackultura/logo/images/logo1_64px.png"
+   inkscape:export-xdpi="13.538884"
+   inkscape:export-ydpi="13.538884">
   <defs
      id="defs3552" />
   <sodipodi:namedview
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="271.54655"
+     inkscape:cx="-34.882021"
      inkscape:cy="140.74415"
      inkscape:document-units="ft"
      inkscape:current-layer="layer1"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
