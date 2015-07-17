@@ -10,12 +10,15 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="120.06898mm"
-   height="105.08254mm"
-   viewBox="0 0 425.44129 372.33972"
+   height="120.06898mm"
+   viewBox="0 0 425.44129 425.44129"
    id="svg3550"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logo_principal.svg">
+   sodipodi:docname="logo_principal.svg"
+   inkscape:export-filename="/home/gilson/Developer/Projects/hackultura/logo/images/logo1_24px.png"
+   inkscape:export-xdpi="5.0770817"
+   inkscape:export-ydpi="5.0770817">
   <defs
      id="defs3552" />
   <sodipodi:namedview
@@ -26,9 +29,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="296.54655"
-     inkscape:cy="140.74416"
-     inkscape:document-units="px"
+     inkscape:cx="271.54655"
+     inkscape:cy="140.74415"
+     inkscape:document-units="ft"
      inkscape:current-layer="layer1"
      showgrid="false"
      fit-margin-top="0"
@@ -56,12 +59,12 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-208.70796,-136.74417)">
+     transform="translate(-208.70796,-83.642582)">
     <g
-       id="g4317"
-       transform="matrix(1.6939354,0,0,1.6939354,-179.25715,-330.97883)">
+       id="g3352"
+       transform="translate(-5.7213849e-6,0.44918545)">
       <g
-         transform="matrix(0.45608388,0,0,0.45608388,129.4435,105.60353)"
+         transform="matrix(0.77257663,0,0,0.77257663,40.011786,-176.09327)"
          id="g4291">
         <g
            id="g4280"
@@ -106,12 +109,12 @@
       <text
          sodipodi:linespacing="125%"
          id="text4287"
-         y="495.49954"
-         x="224.41899"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.02100754px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#231f20;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         y="478.36539"
+         x="200.89413"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:89.81416321px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#231f20;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           y="495.49954"
-           x="224.41899"
+           y="478.36539"
+           x="200.89413"
            id="tspan4289"
            sodipodi:role="line">Hackultura</tspan></text>
     </g>
