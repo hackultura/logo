@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120.06898mm"
+   height="105.08254mm"
+   viewBox="0 0 425.44129 372.33972"
+   id="svg3550"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo_principal.svg">
+  <defs
+     id="defs3552" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="296.54655"
+     inkscape:cy="140.74416"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3555">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-208.70796,-136.74417)">
+    <g
+       id="g4317"
+       transform="matrix(1.6939354,0,0,1.6939354,-179.25715,-330.97883)">
+      <g
+         transform="matrix(0.45608388,0,0,0.45608388,129.4435,105.60353)"
+         id="g4291">
+        <g
+           id="g4280"
+           transform="matrix(1.593528,0,0,1.593528,494.37079,375.99742)">
+          <rect
+             y="-1.3397311"
+             x="-34.335621"
+             height="66.966217"
+             width="67.262062"
+             id="rect3336"
+             style="fill:#dbe477;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <rect
+             style="fill:#d85529;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="rect4272"
+             width="67.262062"
+             height="66.966217"
+             x="42.604034"
+             y="74.522339" />
+          <rect
+             y="151.59991"
+             x="43.035072"
+             height="66.966217"
+             width="67.262062"
+             id="rect4274"
+             style="fill:#a3dcf9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <rect
+             style="fill:#f4e459;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="rect4276"
+             width="67.262062"
+             height="66.966217"
+             x="-33.516624"
+             y="151.81543" />
+          <rect
+             y="151.81543"
+             x="-111.14596"
+             height="66.966217"
+             width="67.262062"
+             id="rect4278"
+             style="fill:#231f20;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4287"
+         y="495.49954"
+         x="224.41899"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.02100754px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#231f20;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="495.49954"
+           x="224.41899"
+           id="tspan4289"
+           sodipodi:role="line">Hackultura</tspan></text>
+    </g>
+  </g>
+</svg>
